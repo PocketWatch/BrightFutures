@@ -6,8 +6,6 @@
 //  Copyright © 2015 Thomas Visser. All rights reserved.
 //
 
-import Result
-
 extension ResultProtocol {
     /// Enables the chaining of two failable operations where the second operation is asynchronous and
     /// represented by a future.
